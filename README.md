@@ -29,8 +29,12 @@ The Beta Builds will be released during additional feature updates, bug fixes et
 
 The Full Release Build will be released after the game is in a completely stable state and most intended features have been implemented.
 
+# Whats the game about?
 
+"The peaceful land of Dredax, has been stirred up by recent reports of the ancient ruins of the kingdoms of old being unsealed. You have been handpicked by the Grand Emperor to discover whats causing this phenomenom and stop it before the undead conquer Dredax leading to the eradication of all living!!
 
+Venture into the depths of the forgotten world, but beware, magic and weapons can only do so much!!"
 
+# Copyright
 
 Copyright (C) 2023 SN0W3 - All Rights Reserved.
