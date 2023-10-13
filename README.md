@@ -28,3 +28,5 @@ The Alpha Builds will be released during the base development of the game, there
 The Beta Builds will be released during additional feature updates, bug fixes etc.
 
 The Full Release Build will be released after the game is in a completely stable state and most intended features have been implemented.
+
+Copyright (C) 2023 SN0W3 - All Rights Reserved.
