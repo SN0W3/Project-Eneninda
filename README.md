@@ -6,3 +6,8 @@ A Retro RPG Project
 This game is currently under development
 
 Every update (alpha or not) will be released here however for a stable experience wait until the full game is released, for a complete experience wait until the beta!
+
+
+# Overview
+
+Project-Eneninda is a project to create an rpg using older game development standards. The 
